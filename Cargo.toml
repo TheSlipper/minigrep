@@ -1,7 +1,7 @@
 [package]
 name = "minigrep"
 version = "0.1.0"
-authors = ["slipper"]
+authors = ["Kornel Domeradzki"]
 edition = "2018"
 
 [lib]
